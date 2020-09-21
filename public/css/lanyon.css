@@ -532,6 +532,18 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* ya-profi */
+.theme-base-ya .sidebar,
+.theme-base-ya .sidebar-toggle:active,
+.theme-base-ya #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #7160A3;
+}
+.theme-base-ya .container a,
+.theme-base-ya .sidebar-toggle,
+.theme-base-ya .related-posts li a:hover {
+  color: #7160A3;
+}
+
 
 /*
  * Overlay sidebar
