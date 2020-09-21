@@ -532,15 +532,15 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* ya-profi */
-.theme-base-07 .sidebar,
-.theme-base-07 .sidebar-toggle:active,
-.theme-base-07 #sidebar-checkbox:checked ~ .sidebar-toggle {
+/* Violet */
+.theme-base-0g .sidebar,
+.theme-base-0g .sidebar-toggle:active,
+.theme-base-0g #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #7160A3;
 }
-.theme-base-07 .container a,
-.theme-base-07 .sidebar-toggle,
-.theme-base-07 .related-posts li a:hover {
+.theme-base-0g .container a,
+.theme-base-0g .sidebar-toggle,
+.theme-base-0g .related-posts li a:hover {
   color: #7160A3;
 }
 
