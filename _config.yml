@@ -3,7 +3,7 @@ title:               «Я&nbsp;—&nbsp;профессионал»
 tagline:             'архив историй дипломантов'
 description:         'Здесь собраны истории дипломантов олимпиады «Я&nbsp;—&nbsp;профессионал»'
 url:                 https://dgorpinchuk.github.io
-baseurl:             ''
+baseurl:             '/ya-profi-diploma'
 paginate:            5
 permalink:           pretty
 
