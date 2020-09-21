@@ -533,14 +533,14 @@ a.pagination-item:hover {
 }
 
 /* ya-profi */
-.theme-base-ya .sidebar,
-.theme-base-ya .sidebar-toggle:active,
-.theme-base-ya #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-base-07 .sidebar,
+.theme-base-07 .sidebar-toggle:active,
+.theme-base-07 #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #7160A3;
 }
-.theme-base-ya .container a,
-.theme-base-ya .sidebar-toggle,
-.theme-base-ya .related-posts li a:hover {
+.theme-base-07 .container a,
+.theme-base-07 .sidebar-toggle,
+.theme-base-07 .related-posts li a:hover {
   color: #7160A3;
 }
 
