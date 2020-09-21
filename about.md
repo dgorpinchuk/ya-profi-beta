@@ -1,29 +1,17 @@
 ---
 layout: page
-title: About
+title: О блоге
 ---
 
+<h3>Здесь собраны истории успеха дипломантов олимпиады.</h3>
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  «Я — профессионал» — это масштабная образовательная олимпиада нового формата для студентов разных специальностей: технических, гуманитарных и естественно-научных. Задания для участников составляют эксперты из ведущих российских вузов и крупнейших компаний страны. Проверяется не абстрактная эрудиция, а профессиональные знания. Лучшие участники получают денежные призы, льготы при поступлении в магистратуру или аспирантуру, а также зарекомендуют себя перед работодателями.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Оператором олимпиады «Я — профессионал» является [Ассоциация организаторов студенческих олимпиад «Я&nbsp;—&nbsp;профессионал»](http://iproficlub.ru/).
 
-There are currently two themes built on Poole:
+## Полезные ссылки
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [http://iproficlub.ru/](Сайт Ассоциации)
+* [http://iproficlub.ru/documents](Политика в отношении обработки персональных данных)
+* [Backoffice олимпиады](https://yandex.ru/profi/university)
