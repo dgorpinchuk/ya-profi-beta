@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: encrypted
 title: SLAC SULI Internship
 ---
 
