@@ -1,7 +1,7 @@
 # Setup
 title:               «Я&nbsp;—&nbsp;профессионал»
-tagline:             'архив историй дипломантов'
-description:         'Здесь собраны истории дипломантов олимпиады «Я&nbsp;—&nbsp;профессионал»'
+tagline:             'beta-testing'
+description:         '«Я&nbsp;—&nbsp;профессионал» BETA'
 url:                 https://dgorpinchuk.github.io
 baseurl:             '/ya-profi-diploma'
 paginate:            5
