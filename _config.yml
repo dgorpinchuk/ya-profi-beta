@@ -3,7 +3,7 @@ title:               «Я&nbsp;—&nbsp;профессионал»
 tagline:             'beta-testing'
 description:         '«Я&nbsp;—&nbsp;профессионал» BETA'
 url:                 https://dgorpinchuk.github.io
-baseurl:             '/ya-profi-diploma'
+baseurl:             '/ya-profi-beta'
 paginate:            5
 permalink:           pretty
 
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.0.0
+version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
