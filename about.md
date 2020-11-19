@@ -17,5 +17,5 @@ title: О блоге
 * [Backoffice олимпиады](https://yandex.ru/profi/university)
 
 <div class="counter_wrapper">
-<div class="counter_header">Количество регистраций:</div><iframe frameborder="0" scrolling="no" style="height:30px;border:none;" src='https://yandex.ru/profi/counter'></iframe>
+<div class="counter_header">Количество регистраций:</div>XXX XXXX
 </div>
