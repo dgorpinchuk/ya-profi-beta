@@ -377,6 +377,26 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+.counter_wrapper iframe {	
+  padding-top: 10px;
+  width: 100px;
+  height: 30px;
+  margin: 0 auto;
+  }	
+  
+.counter_header {
+  text-align: center;
+  font-size: 18px;
+  }
+  
+  .counter_wrapper {
+    display: block;
+    margin: 30px auto;
+    max-width:250px;
+    padding: 10px;
+    text-align: center;
+  }
+
 
 /*
  * Pagination

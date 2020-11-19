@@ -15,3 +15,7 @@ title: О блоге
 * [http://iproficlub.ru/](Сайт Ассоциации)
 * [http://iproficlub.ru/documents](Политика в отношении обработки персональных данных)
 * [Backoffice олимпиады](https://yandex.ru/profi/university)
+
+<div class="counter_wrapper">
+<div class="counter_header">Количество регистраций:</div><iframe frameborder="0" scrolling="no" style="height:30px;border:none;" src='https://yandex.ru/profi/counter'></iframe>
+</div>
