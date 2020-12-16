@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Dmitry Gorpinchuk
-  url:               https://twitter.com/dimon92
-  email:             dgorpinchuk@gmail.com
+name:              Dmitry Gorpinchuk
+url:               https://www.hse.ru/staff/dgorpinchuk
+email:             dgorpinchuk@gmail.com
 
 # Gems
 plugins:
