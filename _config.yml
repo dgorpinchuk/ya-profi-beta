@@ -8,9 +8,7 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
-author:
 name:              Dmitry Gorpinchuk
-url:               https://twitter.com/dimon92
 email:             dgorpinchuk@gmail.com
 
 # Gems
